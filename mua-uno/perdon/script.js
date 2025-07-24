@@ -3,7 +3,7 @@
         let mouseX = 0, mouseY = 0;
         
         const pleaMessages = [
-            "😳 ¿En serio? ¡Dale otra oportunidad al botón de SÍ!",
+            "😳 ¿En serio? ¡Dale otra oportunidad al botón de Si!",
             "🥺 Vamos, sabes que me quieres muchísimo...",
             "😭 ¡Por favor, mi amor! ¡Te prometo ser mejor!",
             "🤧 ¡Te prometo que no volverá a pasar nunca más!",
