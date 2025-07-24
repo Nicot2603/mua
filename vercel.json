@@ -1,6 +1,6 @@
 {
   "routes": [
-    { "src": "/contrasena", "dest": "/mua-uno/contraseña/index.html" },
+    { "src": "/contraseña", "dest": "/mua-uno/contraseña/index.html" },
     { "src": "/jiji", "dest": "/mua-uno/jiji/lo-sabia.html" },
     { "src": "/perdon", "dest": "/mua-uno/perdon/perdoname.html" },
     { "src": "/te-amo", "dest": "/mua-uno/te-amo/porque-te-amo.html" }
