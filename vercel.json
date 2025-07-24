@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "src": "/contrasena", "dest": "/mua-uno/contrasena/script.js" },
+    { "src": "/jiji", "dest": "/mua-uno/jiji/lo-sabia.html" },
+    { "src": "/perdon", "dest": "/mua-uno/perdon/perdoname.html" },
+    { "src": "/te-amo", "dest": "/mua-uno/te-amo/porque-te-amo.html" }
+  ]
+}
