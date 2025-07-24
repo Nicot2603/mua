@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="heart-cursor" id="heartCursor">💖</div>
     <div class="floating-hearts" id="floatingHearts"></div>
     <div class="sparkle-overlay" id="sparkleOverlay"></div>
     
@@ -43,10 +44,18 @@
             </div>
         </div>
         
-        <div class="hearts">💕💖💗💘💝💞</div>
+        <div class="hearts">
+            <span class="heart-emoji">💖</span>
+            <span class="heart-emoji">💝</span>
+            <span class="heart-emoji">💕</span>
+            <span class="heart-emoji">💗</span>
+            <span class="heart-emoji">💘</span>
+            <span class="heart-emoji">💞</span>
+        </div>
         
         <button class="continue-btn" onclick="nextPage()">Continuar ➤</button>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>
